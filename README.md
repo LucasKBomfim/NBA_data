@@ -60,6 +60,7 @@
 <ul>Gradient Boosting Classification</ul>
 <ul>Regressão Logística</ul>
 <ul>Multi Layer Perceptron</ul>
+<ul>Support Vector Machine (SVM)</ul>
 
 <h2>Acknowledgements</h2>
 <ul><a href =https://beautiful-soup-4.readthedocs.io/en/latest/>BeautifulSoup</a></ul>
